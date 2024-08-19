@@ -1,3 +1,7 @@
+body {
+	background-color: hsl(160, 80%, 25%);
+}
+
 .title {
 	font-weight: 500;
 	margin: 0 auto;
@@ -5,5 +9,5 @@
 
 .footer {
 	font-size: 8px;
-	color: blue;
+	color: maroon;
 }
